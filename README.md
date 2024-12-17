@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Holiday404
+- 👋 Hi, I’m Akpalu Mawunyo
 - 👀 I’m interested in becoming a software engineer
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on beginner projects
